@@ -1,0 +1,6 @@
+{
+  "name": "AI Travel Planner Agent",
+  "description": "An intelligent trip planning assistant that uses Gemini AI to generate personalized itineraries, budget optimizer, weather insights, flight and hotel details, and smart recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
